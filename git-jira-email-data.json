@@ -1,0 +1,3165 @@
+{
+  "jira": [
+    {
+      "id": "PROJ-100",
+      "type": "Bug",
+      "summary": "This is a bug related to Add pagination to transactions API.",
+      "assignee": "heidi",
+      "status": "Review",
+      "created_at": "2023-06-28T22:55:00",
+      "updated_at": "2023-06-24T21:35:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-101",
+      "type": "Task",
+      "summary": "This is a task related to Fix login issue due to JWT expiry.",
+      "assignee": "carol",
+      "status": "Closed",
+      "created_at": "2023-08-09T05:21:00",
+      "updated_at": "2023-08-26T12:23:00",
+      "resolution": "Resolved by carol with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-102",
+      "type": "Bug",
+      "summary": "This is a bug related to Fix login issue due to JWT expiry.",
+      "assignee": "dave",
+      "status": "In Progress",
+      "created_at": "2023-06-11T09:29:00",
+      "updated_at": "2023-08-04T16:05:00",
+      "resolution": "Resolved by dave with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-103",
+      "type": "Task",
+      "summary": "This is a task related to Improve logging for payment service.",
+      "assignee": "heidi",
+      "status": "Done",
+      "created_at": "2023-08-31T11:48:00",
+      "updated_at": "2023-07-08T23:19:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-104",
+      "type": "Feature",
+      "summary": "This is a feature related to Update React version and dependencies.",
+      "assignee": "alice",
+      "status": "In Progress",
+      "created_at": "2023-08-21T04:23:00",
+      "updated_at": "2023-07-11T08:40:00",
+      "resolution": "Resolved by alice with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-105",
+      "type": "Bug",
+      "summary": "This is a bug related to Update React version and dependencies.",
+      "assignee": "bob",
+      "status": "Review",
+      "created_at": "2023-07-03T01:47:00",
+      "updated_at": "2023-08-03T16:46:00",
+      "resolution": "Resolved by bob with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-106",
+      "type": "Task",
+      "summary": "This is a task related to Add pagination to transactions API.",
+      "assignee": "bob",
+      "status": "Open",
+      "created_at": "2023-06-10T02:37:00",
+      "updated_at": "2023-07-18T20:41:00",
+      "resolution": "Resolved by bob with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-107",
+      "type": "Task",
+      "summary": "This is a task related to Add retry logic to email notifications.",
+      "assignee": "frank",
+      "status": "Open",
+      "created_at": "2023-08-14T03:32:00",
+      "updated_at": "2023-06-25T05:19:00",
+      "resolution": "Resolved by frank with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-108",
+      "type": "Bug",
+      "summary": "This is a bug related to Add pagination to transactions API.",
+      "assignee": "dave",
+      "status": "In Progress",
+      "created_at": "2023-06-18T12:06:00",
+      "updated_at": "2023-08-09T10:42:00",
+      "resolution": "Resolved by dave with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-109",
+      "type": "Task",
+      "summary": "This is a task related to Improve logging for payment service.",
+      "assignee": "alice",
+      "status": "Open",
+      "created_at": "2023-06-20T07:27:00",
+      "updated_at": "2023-07-22T23:29:00",
+      "resolution": "Resolved by alice with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-110",
+      "type": "Task",
+      "summary": "This is a task related to Optimize dashboard query for large datasets.",
+      "assignee": "heidi",
+      "status": "Open",
+      "created_at": "2023-06-25T15:43:00",
+      "updated_at": "2023-07-06T02:22:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-111",
+      "type": "Feature",
+      "summary": "This is a feature related to Update React version and dependencies.",
+      "assignee": "dave",
+      "status": "Open",
+      "created_at": "2023-07-27T15:06:00",
+      "updated_at": "2023-06-04T13:07:00",
+      "resolution": "Resolved by dave with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-112",
+      "type": "Task",
+      "summary": "This is a task related to Update React version and dependencies.",
+      "assignee": "erin",
+      "status": "Open",
+      "created_at": "2023-07-22T22:42:00",
+      "updated_at": "2023-07-01T20:18:00",
+      "resolution": "Resolved by erin with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-113",
+      "type": "Feature",
+      "summary": "This is a feature related to Update React version and dependencies.",
+      "assignee": "dave",
+      "status": "Done",
+      "created_at": "2023-07-06T23:37:00",
+      "updated_at": "2023-08-09T00:51:00",
+      "resolution": "Resolved by dave with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-114",
+      "type": "Bug",
+      "summary": "This is a bug related to Update React version and dependencies.",
+      "assignee": "heidi",
+      "status": "Open",
+      "created_at": "2023-06-22T16:16:00",
+      "updated_at": "2023-06-07T14:45:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-115",
+      "type": "Bug",
+      "summary": "This is a bug related to Optimize dashboard query for large datasets.",
+      "assignee": "heidi",
+      "status": "Review",
+      "created_at": "2023-06-04T18:12:00",
+      "updated_at": "2023-08-20T20:33:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-116",
+      "type": "Task",
+      "summary": "This is a task related to Handle null pointer in invoice generation.",
+      "assignee": "heidi",
+      "status": "In Progress",
+      "created_at": "2023-08-24T17:17:00",
+      "updated_at": "2023-06-17T16:47:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-117",
+      "type": "Task",
+      "summary": "This is a task related to Add pagination to transactions API.",
+      "assignee": "alice",
+      "status": "Review",
+      "created_at": "2023-07-16T16:53:00",
+      "updated_at": "2023-08-17T15:00:00",
+      "resolution": "Resolved by alice with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-118",
+      "type": "Feature",
+      "summary": "This is a feature related to Optimize dashboard query for large datasets.",
+      "assignee": "frank",
+      "status": "Done",
+      "created_at": "2023-07-02T21:19:00",
+      "updated_at": "2023-06-13T13:22:00",
+      "resolution": "Resolved by frank with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-119",
+      "type": "Task",
+      "summary": "This is a task related to Optimize dashboard query for large datasets.",
+      "assignee": "erin",
+      "status": "Closed",
+      "created_at": "2023-07-31T17:45:00",
+      "updated_at": "2023-07-09T07:42:00",
+      "resolution": "Resolved by erin with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-120",
+      "type": "Feature",
+      "summary": "This is a feature related to Handle null pointer in invoice generation.",
+      "assignee": "grace",
+      "status": "Review",
+      "created_at": "2023-08-29T01:05:00",
+      "updated_at": "2023-08-31T07:10:00",
+      "resolution": "Resolved by grace with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-121",
+      "type": "Bug",
+      "summary": "This is a bug related to Update React version and dependencies.",
+      "assignee": "alice",
+      "status": "Closed",
+      "created_at": "2023-06-04T06:57:00",
+      "updated_at": "2023-08-29T23:12:00",
+      "resolution": "Resolved by alice with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-122",
+      "type": "Task",
+      "summary": "This is a task related to Improve logging for payment service.",
+      "assignee": "bob",
+      "status": "Done",
+      "created_at": "2023-08-29T04:49:00",
+      "updated_at": "2023-07-16T09:01:00",
+      "resolution": "Resolved by bob with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-123",
+      "type": "Task",
+      "summary": "This is a task related to Add retry logic to email notifications.",
+      "assignee": "dave",
+      "status": "Done",
+      "created_at": "2023-07-15T17:49:00",
+      "updated_at": "2023-08-08T22:38:00",
+      "resolution": "Resolved by dave with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-124",
+      "type": "Bug",
+      "summary": "This is a bug related to Optimize dashboard query for large datasets.",
+      "assignee": "bob",
+      "status": "In Progress",
+      "created_at": "2023-08-27T01:40:00",
+      "updated_at": "2023-07-23T23:14:00",
+      "resolution": "Resolved by bob with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-125",
+      "type": "Feature",
+      "summary": "This is a feature related to Refactor user service to improve performance.",
+      "assignee": "grace",
+      "status": "Review",
+      "created_at": "2023-06-13T01:06:00",
+      "updated_at": "2023-08-30T12:32:00",
+      "resolution": "Resolved by grace with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-126",
+      "type": "Task",
+      "summary": "This is a task related to Update React version and dependencies.",
+      "assignee": "heidi",
+      "status": "Closed",
+      "created_at": "2023-08-22T06:44:00",
+      "updated_at": "2023-06-24T21:18:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-127",
+      "type": "Bug",
+      "summary": "This is a bug related to Fix login issue due to JWT expiry.",
+      "assignee": "erin",
+      "status": "Review",
+      "created_at": "2023-07-03T03:02:00",
+      "updated_at": "2023-07-13T14:20:00",
+      "resolution": "Resolved by erin with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-128",
+      "type": "Bug",
+      "summary": "This is a bug related to Fix login issue due to JWT expiry.",
+      "assignee": "alice",
+      "status": "Closed",
+      "created_at": "2023-06-12T15:49:00",
+      "updated_at": "2023-08-08T16:38:00",
+      "resolution": "Resolved by alice with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-129",
+      "type": "Feature",
+      "summary": "This is a feature related to Fix UI alignment in mobile view.",
+      "assignee": "bob",
+      "status": "Done",
+      "created_at": "2023-07-17T14:01:00",
+      "updated_at": "2023-06-07T02:14:00",
+      "resolution": "Resolved by bob with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-130",
+      "type": "Bug",
+      "summary": "This is a bug related to Add pagination to transactions API.",
+      "assignee": "erin",
+      "status": "Open",
+      "created_at": "2023-08-06T10:26:00",
+      "updated_at": "2023-06-15T13:06:00",
+      "resolution": "Resolved by erin with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-131",
+      "type": "Task",
+      "summary": "This is a task related to Optimize dashboard query for large datasets.",
+      "assignee": "bob",
+      "status": "Review",
+      "created_at": "2023-07-20T12:15:00",
+      "updated_at": "2023-07-28T09:28:00",
+      "resolution": "Resolved by bob with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-132",
+      "type": "Task",
+      "summary": "This is a task related to Optimize dashboard query for large datasets.",
+      "assignee": "erin",
+      "status": "Closed",
+      "created_at": "2023-06-14T09:11:00",
+      "updated_at": "2023-08-21T23:35:00",
+      "resolution": "Resolved by erin with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-133",
+      "type": "Feature",
+      "summary": "This is a feature related to Fix login issue due to JWT expiry.",
+      "assignee": "bob",
+      "status": "In Progress",
+      "created_at": "2023-06-21T20:15:00",
+      "updated_at": "2023-07-27T13:48:00",
+      "resolution": "Resolved by bob with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-134",
+      "type": "Task",
+      "summary": "This is a task related to Improve logging for payment service.",
+      "assignee": "grace",
+      "status": "Done",
+      "created_at": "2023-08-03T11:30:00",
+      "updated_at": "2023-06-26T17:16:00",
+      "resolution": "Resolved by grace with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-135",
+      "type": "Bug",
+      "summary": "This is a bug related to Add pagination to transactions API.",
+      "assignee": "erin",
+      "status": "Closed",
+      "created_at": "2023-07-07T06:05:00",
+      "updated_at": "2023-06-20T06:49:00",
+      "resolution": "Resolved by erin with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-136",
+      "type": "Feature",
+      "summary": "This is a feature related to Fix UI alignment in mobile view.",
+      "assignee": "heidi",
+      "status": "Closed",
+      "created_at": "2023-06-20T13:34:00",
+      "updated_at": "2023-06-07T20:59:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-137",
+      "type": "Task",
+      "summary": "This is a task related to Optimize dashboard query for large datasets.",
+      "assignee": "heidi",
+      "status": "Open",
+      "created_at": "2023-06-29T00:26:00",
+      "updated_at": "2023-07-29T12:41:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-138",
+      "type": "Feature",
+      "summary": "This is a feature related to Handle null pointer in invoice generation.",
+      "assignee": "carol",
+      "status": "Closed",
+      "created_at": "2023-08-06T19:57:00",
+      "updated_at": "2023-07-02T23:37:00",
+      "resolution": "Resolved by carol with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-139",
+      "type": "Feature",
+      "summary": "This is a feature related to Update React version and dependencies.",
+      "assignee": "carol",
+      "status": "Review",
+      "created_at": "2023-08-21T01:59:00",
+      "updated_at": "2023-08-11T16:07:00",
+      "resolution": "Resolved by carol with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-140",
+      "type": "Task",
+      "summary": "This is a task related to Handle null pointer in invoice generation.",
+      "assignee": "alice",
+      "status": "Open",
+      "created_at": "2023-07-14T03:06:00",
+      "updated_at": "2023-07-01T07:47:00",
+      "resolution": "Resolved by alice with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-141",
+      "type": "Bug",
+      "summary": "This is a bug related to Add pagination to transactions API.",
+      "assignee": "bob",
+      "status": "Open",
+      "created_at": "2023-07-04T22:00:00",
+      "updated_at": "2023-08-09T06:02:00",
+      "resolution": "Resolved by bob with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-142",
+      "type": "Task",
+      "summary": "This is a task related to Add retry logic to email notifications.",
+      "assignee": "heidi",
+      "status": "Review",
+      "created_at": "2023-08-16T21:09:00",
+      "updated_at": "2023-06-04T10:34:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-143",
+      "type": "Bug",
+      "summary": "This is a bug related to Add pagination to transactions API.",
+      "assignee": "erin",
+      "status": "Done",
+      "created_at": "2023-08-15T08:15:00",
+      "updated_at": "2023-06-01T06:47:00",
+      "resolution": "Resolved by erin with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-144",
+      "type": "Bug",
+      "summary": "This is a bug related to Fix UI alignment in mobile view.",
+      "assignee": "frank",
+      "status": "Open",
+      "created_at": "2023-07-19T17:55:00",
+      "updated_at": "2023-06-06T17:38:00",
+      "resolution": "Resolved by frank with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-145",
+      "type": "Bug",
+      "summary": "This is a bug related to Update React version and dependencies.",
+      "assignee": "frank",
+      "status": "Open",
+      "created_at": "2023-07-05T04:03:00",
+      "updated_at": "2023-08-01T02:48:00",
+      "resolution": "Resolved by frank with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-146",
+      "type": "Feature",
+      "summary": "This is a feature related to Add pagination to transactions API.",
+      "assignee": "bob",
+      "status": "In Progress",
+      "created_at": "2023-06-18T22:33:00",
+      "updated_at": "2023-07-27T09:00:00",
+      "resolution": "Resolved by bob with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-147",
+      "type": "Feature",
+      "summary": "This is a feature related to Handle null pointer in invoice generation.",
+      "assignee": "heidi",
+      "status": "Closed",
+      "created_at": "2023-06-15T00:18:00",
+      "updated_at": "2023-07-10T20:45:00",
+      "resolution": "Resolved by heidi with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-148",
+      "type": "Task",
+      "summary": "This is a task related to Fix login issue due to JWT expiry.",
+      "assignee": "erin",
+      "status": "Closed",
+      "created_at": "2023-07-15T22:33:00",
+      "updated_at": "2023-06-19T03:32:00",
+      "resolution": "Resolved by erin with commit ref or support fix."
+    },
+    {
+      "id": "PROJ-149",
+      "type": "Bug",
+      "summary": "This is a bug related to Optimize dashboard query for large datasets.",
+      "assignee": "alice",
+      "status": "Done",
+      "created_at": "2023-06-09T19:36:00",
+      "updated_at": "2023-07-28T11:38:00",
+      "resolution": "Resolved by alice with commit ref or support fix."
+    }
+  ],
+  "git": [
+    {
+      "commit_id": "4d6f0fbf-9177-47dd-80fd-62a6f9690819",
+      "author": "bob",
+      "message": "Fix login issue due to JWT expiry",
+      "ticket": "PROJ-113",
+      "timestamp": "2023-06-25T15:29:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "a9bce9cb-b76b-4219-8d2b-af53a8b38831",
+      "author": "dave",
+      "message": "Improve logging for payment service",
+      "ticket": "PROJ-109",
+      "timestamp": "2023-06-26T09:41:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "cb8af314-404f-4336-90b2-5c86ffc8fa27",
+      "author": "alice",
+      "message": "Add pagination to transactions API",
+      "ticket": "PROJ-111",
+      "timestamp": "2023-07-31T17:26:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "59253c59-7d09-4cc2-966f-655bc4086aad",
+      "author": "carol",
+      "message": "Add retry logic to email notifications",
+      "ticket": "PROJ-122",
+      "timestamp": "2023-07-18T03:49:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "0b08b1b4-1d27-4a47-9209-3019d046a36d",
+      "author": "carol",
+      "message": "Fix UI alignment in mobile view",
+      "ticket": "PROJ-131",
+      "timestamp": "2023-08-18T11:50:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "f835923b-4050-48f2-b879-c4c8eead83eb",
+      "author": "bob",
+      "message": "Fix SQL injection vulnerability",
+      "ticket": "PROJ-122",
+      "timestamp": "2023-08-12T23:33:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "6cc1ecd5-f47a-4310-95c3-2594a23dc869",
+      "author": "dave",
+      "message": "Fix UI alignment in mobile view",
+      "ticket": "PROJ-111",
+      "timestamp": "2023-07-30T12:14:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "7910a421-3702-4510-9eb0-7d6638ed83a9",
+      "author": "dave",
+      "message": "Optimize dashboard query for large datasets",
+      "ticket": "PROJ-102",
+      "timestamp": "2023-06-15T04:47:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "af67ced6-542c-4dbe-af1d-9a6c5892b2e8",
+      "author": "dave",
+      "message": "Refactor user service to improve performance",
+      "ticket": "PROJ-111",
+      "timestamp": "2023-06-09T15:55:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "3a34051b-0015-4a22-91d3-2afd0647d066",
+      "author": "dave",
+      "message": "Improve logging for payment service",
+      "ticket": "PROJ-142",
+      "timestamp": "2023-06-26T20:33:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "618fb4e9-7e61-4aa8-b263-b24c5b1e451b",
+      "author": "bob",
+      "message": "Handle null pointer in invoice generation",
+      "ticket": "PROJ-143",
+      "timestamp": "2023-07-26T00:17:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "e86487d7-0bae-47f0-a18a-a59bf94c2fbe",
+      "author": "alice",
+      "message": "Update React version and dependencies",
+      "ticket": "PROJ-122",
+      "timestamp": "2023-06-16T22:00:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "4fbf89dc-d96b-4442-842b-0f46053a0ee9",
+      "author": "alice",
+      "message": "Handle null pointer in invoice generation",
+      "ticket": "PROJ-116",
+      "timestamp": "2023-08-05T03:52:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "fc277f91-4e81-4256-a09a-5a1d9d630600",
+      "author": "dave",
+      "message": "Update React version and dependencies",
+      "ticket": "PROJ-127",
+      "timestamp": "2023-06-08T13:09:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "243e5ce2-1178-491c-9e5f-35fc760d20ca",
+      "author": "dave",
+      "message": "Add retry logic to email notifications",
+      "ticket": "PROJ-145",
+      "timestamp": "2023-08-01T19:32:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "3e07444f-cef1-4ce2-a5b5-c015b5b5aad2",
+      "author": "carol",
+      "message": "Refactor user service to improve performance",
+      "ticket": "PROJ-117",
+      "timestamp": "2023-06-23T00:55:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "ae78c27a-7d8d-40c3-81eb-69c66a402d85",
+      "author": "carol",
+      "message": "Add pagination to transactions API",
+      "ticket": "PROJ-129",
+      "timestamp": "2023-08-30T01:49:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "381549ba-44e2-4bc6-bce6-88d4c1991f76",
+      "author": "carol",
+      "message": "Handle null pointer in invoice generation",
+      "ticket": "PROJ-115",
+      "timestamp": "2023-07-14T15:49:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "8d65d945-e9a8-4763-9ea6-00d58985ea57",
+      "author": "carol",
+      "message": "Fix login issue due to JWT expiry",
+      "ticket": "PROJ-136",
+      "timestamp": "2023-07-14T22:25:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "1ecd4902-b1d4-41e0-8f8a-cc467b2f6c8a",
+      "author": "bob",
+      "message": "Optimize dashboard query for large datasets",
+      "ticket": "PROJ-117",
+      "timestamp": "2023-06-03T10:30:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "6428ad6e-b06f-42d0-b050-bbb563a0e95c",
+      "author": "bob",
+      "message": "Handle null pointer in invoice generation",
+      "ticket": "PROJ-112",
+      "timestamp": "2023-08-19T23:40:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "90879fbd-8480-40ff-875a-320de28aa88d",
+      "author": "dave",
+      "message": "Add retry logic to email notifications",
+      "ticket": "PROJ-134",
+      "timestamp": "2023-06-21T00:53:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "4c9b2a7a-5b49-46a1-b163-f861d44c9e84",
+      "author": "carol",
+      "message": "Fix login issue due to JWT expiry",
+      "ticket": "PROJ-105",
+      "timestamp": "2023-07-30T18:58:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "a96bccee-ae64-4f46-aeb5-3b218eab5435",
+      "author": "carol",
+      "message": "Fix UI alignment in mobile view",
+      "ticket": "PROJ-104",
+      "timestamp": "2023-08-17T12:34:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "70b05270-4027-466c-86c1-b74b275319d1",
+      "author": "alice",
+      "message": "Fix UI alignment in mobile view",
+      "ticket": "PROJ-111",
+      "timestamp": "2023-06-18T05:46:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "e76dbd51-cd31-471b-8d38-3c3ae430d792",
+      "author": "carol",
+      "message": "Improve logging for payment service",
+      "ticket": "PROJ-103",
+      "timestamp": "2023-06-03T01:51:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "eb9201fb-d934-45c8-9634-2e43490007cf",
+      "author": "bob",
+      "message": "Fix SQL injection vulnerability",
+      "ticket": "PROJ-127",
+      "timestamp": "2023-06-12T05:16:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "db9d2572-313f-4cd7-b376-f3b587db8a0d",
+      "author": "dave",
+      "message": "Refactor user service to improve performance",
+      "ticket": "PROJ-120",
+      "timestamp": "2023-06-05T21:18:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "5f6d6cf2-ca3a-4e74-b66f-14ed8331f0d2",
+      "author": "bob",
+      "message": "Fix login issue due to JWT expiry",
+      "ticket": "PROJ-142",
+      "timestamp": "2023-08-10T14:34:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "1326d5b4-54d6-4a4b-91ce-3b6a4a133ff7",
+      "author": "bob",
+      "message": "Add pagination to transactions API",
+      "ticket": "PROJ-140",
+      "timestamp": "2023-06-19T02:41:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "61a5a1ce-0dd3-42e7-9be8-c0952fb6ed56",
+      "author": "bob",
+      "message": "Optimize dashboard query for large datasets",
+      "ticket": "PROJ-123",
+      "timestamp": "2023-08-25T11:08:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "ec81dd93-eac4-448d-9716-54c329ca5316",
+      "author": "dave",
+      "message": "Fix UI alignment in mobile view",
+      "ticket": "PROJ-112",
+      "timestamp": "2023-08-21T11:14:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "d9a0e844-6ac5-4f6b-9a59-785d688c3d14",
+      "author": "alice",
+      "message": "Update React version and dependencies",
+      "ticket": "PROJ-142",
+      "timestamp": "2023-08-06T20:45:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "7715bcb8-3545-4c3d-83e8-769372d86176",
+      "author": "alice",
+      "message": "Fix SQL injection vulnerability",
+      "ticket": "PROJ-144",
+      "timestamp": "2023-07-11T15:59:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "d11f20d4-5002-4fab-95f4-6d07e0655602",
+      "author": "alice",
+      "message": "Add retry logic to email notifications",
+      "ticket": "PROJ-127",
+      "timestamp": "2023-08-13T09:32:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "aa9659b4-8a28-40eb-9368-9c8b2ac537e9",
+      "author": "alice",
+      "message": "Fix login issue due to JWT expiry",
+      "ticket": "PROJ-129",
+      "timestamp": "2023-06-28T15:44:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "21592e7e-f69c-4725-b418-6d7f7ad77486",
+      "author": "bob",
+      "message": "Handle null pointer in invoice generation",
+      "ticket": "PROJ-105",
+      "timestamp": "2023-06-26T19:00:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "e3d9a949-bd23-4a6d-a056-9660d03c99d9",
+      "author": "dave",
+      "message": "Add retry logic to email notifications",
+      "ticket": "PROJ-115",
+      "timestamp": "2023-06-16T13:09:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "52617219-f184-42c9-8750-3d901a4d42a4",
+      "author": "alice",
+      "message": "Update React version and dependencies",
+      "ticket": "PROJ-135",
+      "timestamp": "2023-08-30T01:27:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "e8a9dd7c-7648-4654-9046-e1901302632a",
+      "author": "alice",
+      "message": "Handle null pointer in invoice generation",
+      "ticket": "PROJ-101",
+      "timestamp": "2023-07-11T13:02:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "e36a5a97-f18a-4c4b-b880-05efe4c50f74",
+      "author": "dave",
+      "message": "Refactor user service to improve performance",
+      "ticket": "PROJ-127",
+      "timestamp": "2023-08-25T23:13:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "6a74aadd-8097-4d87-9d1a-00ba9385df30",
+      "author": "bob",
+      "message": "Refactor user service to improve performance",
+      "ticket": "PROJ-146",
+      "timestamp": "2023-07-05T03:28:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "d5298c19-1c5e-4770-987d-1a97e34fcf8c",
+      "author": "alice",
+      "message": "Add retry logic to email notifications",
+      "ticket": "PROJ-129",
+      "timestamp": "2023-06-15T20:01:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "a3b505a4-2cd4-4515-ae78-dadfdce5ebd9",
+      "author": "dave",
+      "message": "Refactor user service to improve performance",
+      "ticket": "PROJ-134",
+      "timestamp": "2023-08-01T08:46:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "a59550b1-8b18-46e4-8207-4ef69d5db77e",
+      "author": "dave",
+      "message": "Fix SQL injection vulnerability",
+      "ticket": "PROJ-125",
+      "timestamp": "2023-08-26T00:43:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "9bee27ab-c11a-485e-9792-07147afcbd20",
+      "author": "alice",
+      "message": "Update React version and dependencies",
+      "ticket": "PROJ-132",
+      "timestamp": "2023-07-09T06:03:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "5637cb10-9b09-4875-94d3-e7d399e79029",
+      "author": "bob",
+      "message": "Update React version and dependencies",
+      "ticket": "PROJ-141",
+      "timestamp": "2023-07-29T23:00:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "85033b79-1a77-4228-9c34-68fa288e6f9b",
+      "author": "alice",
+      "message": "Optimize dashboard query for large datasets",
+      "ticket": "PROJ-105",
+      "timestamp": "2023-08-11T13:39:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "51f6a592-ba66-42f0-8528-5d8661662a8b",
+      "author": "dave",
+      "message": "Fix login issue due to JWT expiry",
+      "ticket": "PROJ-123",
+      "timestamp": "2023-06-07T19:56:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "bc0827fc-aa9a-4399-84a6-758c76cf0b95",
+      "author": "alice",
+      "message": "Fix UI alignment in mobile view",
+      "ticket": "PROJ-143",
+      "timestamp": "2023-06-20T18:38:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "e5c52f97-9a42-4d57-9226-c0e4da34f5fd",
+      "author": "alice",
+      "message": "Update React version and dependencies",
+      "ticket": "PROJ-141",
+      "timestamp": "2023-07-20T21:47:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "599fc793-f390-4a56-b028-ffed549c8a07",
+      "author": "alice",
+      "message": "Add pagination to transactions API",
+      "ticket": "PROJ-123",
+      "timestamp": "2023-08-20T04:44:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "2d64ff86-78a4-44b7-be72-428d6abb17a7",
+      "author": "alice",
+      "message": "Add retry logic to email notifications",
+      "ticket": "PROJ-123",
+      "timestamp": "2023-08-21T09:00:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "fd010319-559b-4f5d-acf8-76efb2879bc8",
+      "author": "dave",
+      "message": "Handle null pointer in invoice generation",
+      "ticket": "PROJ-149",
+      "timestamp": "2023-08-23T01:56:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "da0b58a1-fd26-448e-95a3-62fb43c5736c",
+      "author": "dave",
+      "message": "Fix login issue due to JWT expiry",
+      "ticket": "PROJ-129",
+      "timestamp": "2023-06-19T19:15:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "b87d0e72-1779-48ee-84c5-1a7517e0d024",
+      "author": "alice",
+      "message": "Update React version and dependencies",
+      "ticket": "PROJ-126",
+      "timestamp": "2023-06-14T19:28:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "2d1ec27e-fdd7-434a-9b5e-da2015cf5578",
+      "author": "bob",
+      "message": "Optimize dashboard query for large datasets",
+      "ticket": "PROJ-129",
+      "timestamp": "2023-08-31T01:45:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "d4fa84cb-8f19-4d38-b483-cb461fa4f053",
+      "author": "alice",
+      "message": "Refactor user service to improve performance",
+      "ticket": "PROJ-120",
+      "timestamp": "2023-08-20T16:49:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "62e1b9bc-f9e1-4a5a-8bd4-893f3e2e35dc",
+      "author": "bob",
+      "message": "Add retry logic to email notifications",
+      "ticket": "PROJ-120",
+      "timestamp": "2023-08-06T05:05:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    },
+    {
+      "commit_id": "10472f70-7e03-4668-921f-292eee26faed",
+      "author": "alice",
+      "message": "Improve logging for payment service",
+      "ticket": "PROJ-149",
+      "timestamp": "2023-07-12T09:02:00",
+      "diff": "diff --git a/src/app.js b/src/app.js\nindex 83db48f..bf3e1a7 100644\n--- a/src/app.js\n+++ b/src/app.js\n@@ -23,7 +23,10 @@\n function loginUser(req, res) {\n-    const token = jwt.sign({ userId: req.user.id }, 'secret');\n+    const token = jwt.sign({ userId: req.user.id }, process.env.JWT_SECRET, { expiresIn: '1h' });\n     res.json({ token });\n }\n"
+    }
+  ],
+  "emails": [
+    {
+      "thread_id": "0cc7dd58-0f19-48ee-a441-7a17afb34d77",
+      "sender": "bob",
+      "subject": "Approval Needed: Prod deployment on Friday",
+      "timestamp": "2023-06-21T02:40:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-139. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['10472f70-7e03-4668-921f-292eee26faed', '52617219-f184-42c9-8750-3d901a4d42a4']\n\nRegards,\nbob\n"
+    },
+    {
+      "thread_id": "dd5ffd03-fd3c-407e-be1b-8cd20885c07b",
+      "sender": "erin",
+      "subject": "Discussion: Moving from MySQL to PostgreSQL",
+      "timestamp": "2023-06-16T11:19:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-103. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['fc277f91-4e81-4256-a09a-5a1d9d630600', 'd4fa84cb-8f19-4d38-b483-cb461fa4f053']\n\nRegards,\nerin\n"
+    },
+    {
+      "thread_id": "c2b91016-4aa6-4d28-b33f-0f5bcbdfe175",
+      "sender": "heidi",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-07-10T22:24:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-138. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['d5298c19-1c5e-4770-987d-1a97e34fcf8c', '2d64ff86-78a4-44b7-be72-428d6abb17a7']\n\nRegards,\nheidi\n"
+    },
+    {
+      "thread_id": "d10b37dd-ee1c-4442-86e0-135255899e1d",
+      "sender": "heidi",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-07-11T03:55:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-112. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['1ecd4902-b1d4-41e0-8f8a-cc467b2f6c8a', 'eb9201fb-d934-45c8-9634-2e43490007cf']\n\nRegards,\nheidi\n"
+    },
+    {
+      "thread_id": "4cf0e5c2-1369-4731-942f-b56fc517bc47",
+      "sender": "carol",
+      "subject": "Discussion: Moving from MySQL to PostgreSQL",
+      "timestamp": "2023-06-17T17:23:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-138. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['d9a0e844-6ac5-4f6b-9a59-785d688c3d14', 'e36a5a97-f18a-4c4b-b880-05efe4c50f74']\n\nRegards,\ncarol\n"
+    },
+    {
+      "thread_id": "c1e3447f-bf06-44a5-86ec-103355e08db2",
+      "sender": "alice",
+      "subject": "Support Request: Refund processing delay",
+      "timestamp": "2023-07-02T09:08:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-102. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['4d6f0fbf-9177-47dd-80fd-62a6f9690819', 'ae78c27a-7d8d-40c3-81eb-69c66a402d85']\n\nRegards,\nalice\n"
+    },
+    {
+      "thread_id": "5b47b892-6b63-4431-bf8f-e8dd041e44db",
+      "sender": "grace",
+      "subject": "Support Request: Refund processing delay",
+      "timestamp": "2023-07-08T15:50:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-108. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['fc277f91-4e81-4256-a09a-5a1d9d630600', 'd4fa84cb-8f19-4d38-b483-cb461fa4f053']\n\nRegards,\ngrace\n"
+    },
+    {
+      "thread_id": "b03f0fd5-ef8f-448d-b719-8beffb3f5b0e",
+      "sender": "erin",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-07-09T20:03:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-130. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['a59550b1-8b18-46e4-8207-4ef69d5db77e', 'af67ced6-542c-4dbe-af1d-9a6c5892b2e8']\n\nRegards,\nerin\n"
+    },
+    {
+      "thread_id": "5bcf81f5-825d-44f1-9645-eeac42d0392c",
+      "sender": "grace",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-08-07T15:29:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-101. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['d11f20d4-5002-4fab-95f4-6d07e0655602', 'ec81dd93-eac4-448d-9716-54c329ca5316']\n\nRegards,\ngrace\n"
+    },
+    {
+      "thread_id": "3ba383e2-57a5-4b97-a53c-7b00ef50f659",
+      "sender": "bob",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-07-05T15:54:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-126. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['a9bce9cb-b76b-4219-8d2b-af53a8b38831', 'e76dbd51-cd31-471b-8d38-3c3ae430d792']\n\nRegards,\nbob\n"
+    },
+    {
+      "thread_id": "70d08f3b-9f20-4ab6-a668-ccf4327bb8d9",
+      "sender": "alice",
+      "subject": "Approval Needed: Prod deployment on Friday",
+      "timestamp": "2023-07-28T00:53:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-146. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['e5c52f97-9a42-4d57-9226-c0e4da34f5fd', 'f835923b-4050-48f2-b879-c4c8eead83eb']\n\nRegards,\nalice\n"
+    },
+    {
+      "thread_id": "7776fcaa-1cb9-4ea7-b2bd-c4501d6c6dd1",
+      "sender": "carol",
+      "subject": "Discussion: Moving from MySQL to PostgreSQL",
+      "timestamp": "2023-07-29T13:37:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-100. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['618fb4e9-7e61-4aa8-b263-b24c5b1e451b', '5637cb10-9b09-4875-94d3-e7d399e79029']\n\nRegards,\ncarol\n"
+    },
+    {
+      "thread_id": "f4c44006-4545-4239-b4aa-202ec7875034",
+      "sender": "erin",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-07-13T15:00:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-112. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['a9bce9cb-b76b-4219-8d2b-af53a8b38831', '618fb4e9-7e61-4aa8-b263-b24c5b1e451b']\n\nRegards,\nerin\n"
+    },
+    {
+      "thread_id": "81c2d498-8267-43db-9769-71375a6a8b75",
+      "sender": "frank",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-07-10T10:32:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-105. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['a3b505a4-2cd4-4515-ae78-dadfdce5ebd9', '7715bcb8-3545-4c3d-83e8-769372d86176']\n\nRegards,\nfrank\n"
+    },
+    {
+      "thread_id": "05446738-7dd5-45e9-91f9-d9a0af4f70cb",
+      "sender": "carol",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-06-11T01:36:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-132. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['59253c59-7d09-4cc2-966f-655bc4086aad', 'ae78c27a-7d8d-40c3-81eb-69c66a402d85']\n\nRegards,\ncarol\n"
+    },
+    {
+      "thread_id": "39773c32-8a3b-44a7-b596-0e5c2b06f8b6",
+      "sender": "erin",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-08-25T12:56:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-120. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['6a74aadd-8097-4d87-9d1a-00ba9385df30', '85033b79-1a77-4228-9c34-68fa288e6f9b']\n\nRegards,\nerin\n"
+    },
+    {
+      "thread_id": "ff5bcc89-8e0e-498e-a9e9-309f21f64e9a",
+      "sender": "erin",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-08-13T23:30:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-129. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['ae78c27a-7d8d-40c3-81eb-69c66a402d85', 'f835923b-4050-48f2-b879-c4c8eead83eb']\n\nRegards,\nerin\n"
+    },
+    {
+      "thread_id": "7c5926a9-b256-4c9d-a899-245871a8ccfc",
+      "sender": "frank",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-08-23T02:47:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-102. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['aa9659b4-8a28-40eb-9368-9c8b2ac537e9', '4fbf89dc-d96b-4442-842b-0f46053a0ee9']\n\nRegards,\nfrank\n"
+    },
+    {
+      "thread_id": "621aea8a-3e94-4dd8-b8a4-b5920ecf1bc8",
+      "sender": "frank",
+      "subject": "Approval Needed: Prod deployment on Friday",
+      "timestamp": "2023-06-23T08:11:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-114. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['51f6a592-ba66-42f0-8528-5d8661662a8b', 'a9bce9cb-b76b-4219-8d2b-af53a8b38831']\n\nRegards,\nfrank\n"
+    },
+    {
+      "thread_id": "4ac1a084-4a02-40d8-a8ec-041f371103c3",
+      "sender": "carol",
+      "subject": "Discussion: Moving from MySQL to PostgreSQL",
+      "timestamp": "2023-06-13T19:14:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-143. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['9bee27ab-c11a-485e-9792-07147afcbd20', 'b87d0e72-1779-48ee-84c5-1a7517e0d024']\n\nRegards,\ncarol\n"
+    },
+    {
+      "thread_id": "75c7b8c2-a138-42df-8544-eb55861c5104",
+      "sender": "grace",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-08-17T11:37:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-127. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['e36a5a97-f18a-4c4b-b880-05efe4c50f74', 'da0b58a1-fd26-448e-95a3-62fb43c5736c']\n\nRegards,\ngrace\n"
+    },
+    {
+      "thread_id": "dcd83888-f1cf-4d68-953e-15215215a39e",
+      "sender": "bob",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-08-15T16:46:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-125. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['85033b79-1a77-4228-9c34-68fa288e6f9b', '52617219-f184-42c9-8750-3d901a4d42a4']\n\nRegards,\nbob\n"
+    },
+    {
+      "thread_id": "9ffe362a-ca70-4ca3-b4b3-a2f31e1770d3",
+      "sender": "erin",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-06-25T21:17:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-124. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['a59550b1-8b18-46e4-8207-4ef69d5db77e', '8d65d945-e9a8-4763-9ea6-00d58985ea57']\n\nRegards,\nerin\n"
+    },
+    {
+      "thread_id": "cfa14061-096c-4904-9c51-f758bfd11ef3",
+      "sender": "frank",
+      "subject": "Support Request: Refund processing delay",
+      "timestamp": "2023-08-29T04:07:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-107. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['d5298c19-1c5e-4770-987d-1a97e34fcf8c', 'aa9659b4-8a28-40eb-9368-9c8b2ac537e9']\n\nRegards,\nfrank\n"
+    },
+    {
+      "thread_id": "8fd10724-c229-4c87-afe6-2a971d31b8bb",
+      "sender": "alice",
+      "subject": "Approval Needed: Prod deployment on Friday",
+      "timestamp": "2023-07-06T05:30:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-108. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['a96bccee-ae64-4f46-aeb5-3b218eab5435', '4fbf89dc-d96b-4442-842b-0f46053a0ee9']\n\nRegards,\nalice\n"
+    },
+    {
+      "thread_id": "62861879-3375-47d1-89d3-792ac3fcecf9",
+      "sender": "frank",
+      "subject": "Discussion: Moving from MySQL to PostgreSQL",
+      "timestamp": "2023-08-31T10:10:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-126. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['7910a421-3702-4510-9eb0-7d6638ed83a9', 'd11f20d4-5002-4fab-95f4-6d07e0655602']\n\nRegards,\nfrank\n"
+    },
+    {
+      "thread_id": "00afd384-be78-43be-847d-ee87df58f52b",
+      "sender": "dave",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-08-11T20:07:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-129. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['9bee27ab-c11a-485e-9792-07147afcbd20', 'fd010319-559b-4f5d-acf8-76efb2879bc8']\n\nRegards,\ndave\n"
+    },
+    {
+      "thread_id": "dce11d31-1f92-4fa0-bff2-11ef921e01e9",
+      "sender": "alice",
+      "subject": "Discussion: Moving from MySQL to PostgreSQL",
+      "timestamp": "2023-08-28T11:01:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-134. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['3a34051b-0015-4a22-91d3-2afd0647d066', '59253c59-7d09-4cc2-966f-655bc4086aad']\n\nRegards,\nalice\n"
+    },
+    {
+      "thread_id": "489c3cab-44b7-498a-9cff-f15ad8c518e8",
+      "sender": "carol",
+      "subject": "Approval Needed: Prod deployment on Friday",
+      "timestamp": "2023-07-09T08:23:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-101. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['ec81dd93-eac4-448d-9716-54c329ca5316', 'd4fa84cb-8f19-4d38-b483-cb461fa4f053']\n\nRegards,\ncarol\n"
+    },
+    {
+      "thread_id": "8bc46566-e89a-466b-93d5-d630f3fd8a0d",
+      "sender": "alice",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-08-20T00:52:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-142. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['4d6f0fbf-9177-47dd-80fd-62a6f9690819', '599fc793-f390-4a56-b028-ffed549c8a07']\n\nRegards,\nalice\n"
+    },
+    {
+      "thread_id": "def6f716-39b3-4518-b649-b00b18ac0c3d",
+      "sender": "dave",
+      "subject": "Approval Needed: Prod deployment on Friday",
+      "timestamp": "2023-06-10T08:34:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-132. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['21592e7e-f69c-4725-b418-6d7f7ad77486', '4d6f0fbf-9177-47dd-80fd-62a6f9690819']\n\nRegards,\ndave\n"
+    },
+    {
+      "thread_id": "bd3ab14e-7a36-4981-8b98-d523edc74b77",
+      "sender": "alice",
+      "subject": "Support Request: Refund processing delay",
+      "timestamp": "2023-07-04T04:00:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-143. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['6cc1ecd5-f47a-4310-95c3-2594a23dc869', 'e86487d7-0bae-47f0-a18a-a59bf94c2fbe']\n\nRegards,\nalice\n"
+    },
+    {
+      "thread_id": "f43e3d30-9ec0-4e2e-bc80-27ba374e7341",
+      "sender": "dave",
+      "subject": "Discussion: Moving from MySQL to PostgreSQL",
+      "timestamp": "2023-07-18T01:18:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-105. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['1ecd4902-b1d4-41e0-8f8a-cc467b2f6c8a', '5637cb10-9b09-4875-94d3-e7d399e79029']\n\nRegards,\ndave\n"
+    },
+    {
+      "thread_id": "d464eb5b-2712-4e62-b813-b1f038e53a29",
+      "sender": "dave",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-08-12T06:42:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-127. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['2d64ff86-78a4-44b7-be72-428d6abb17a7', 'da0b58a1-fd26-448e-95a3-62fb43c5736c']\n\nRegards,\ndave\n"
+    },
+    {
+      "thread_id": "405454b4-2701-4298-9d93-0696e654942e",
+      "sender": "carol",
+      "subject": "Discussion: Moving from MySQL to PostgreSQL",
+      "timestamp": "2023-06-23T03:29:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-119. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['243e5ce2-1178-491c-9e5f-35fc760d20ca', 'd11f20d4-5002-4fab-95f4-6d07e0655602']\n\nRegards,\ncarol\n"
+    },
+    {
+      "thread_id": "1add3615-3c86-49cf-bff0-7dac0c10f0f1",
+      "sender": "dave",
+      "subject": "Approval Needed: Prod deployment on Friday",
+      "timestamp": "2023-07-07T05:41:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-107. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['0b08b1b4-1d27-4a47-9209-3019d046a36d', 'db9d2572-313f-4cd7-b376-f3b587db8a0d']\n\nRegards,\ndave\n"
+    },
+    {
+      "thread_id": "82af9c79-becf-47e7-8973-8e0d030832f8",
+      "sender": "erin",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-06-10T23:55:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-131. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['21592e7e-f69c-4725-b418-6d7f7ad77486', '7715bcb8-3545-4c3d-83e8-769372d86176']\n\nRegards,\nerin\n"
+    },
+    {
+      "thread_id": "e4b8b760-b70f-4d85-8de1-93c0a55bdcc0",
+      "sender": "alice",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-06-06T00:38:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-108. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['10472f70-7e03-4668-921f-292eee26faed', 'd5298c19-1c5e-4770-987d-1a97e34fcf8c']\n\nRegards,\nalice\n"
+    },
+    {
+      "thread_id": "dc23d467-8aad-4560-a678-c96ccd922c04",
+      "sender": "carol",
+      "subject": "Support Request: Refund processing delay",
+      "timestamp": "2023-08-30T19:41:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-125. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['3e07444f-cef1-4ce2-a5b5-c015b5b5aad2', '6cc1ecd5-f47a-4310-95c3-2594a23dc869']\n\nRegards,\ncarol\n"
+    },
+    {
+      "thread_id": "e4cb1491-4c7e-44a3-8434-1fa15f49dce9",
+      "sender": "grace",
+      "subject": "Approval Needed: Prod deployment on Friday",
+      "timestamp": "2023-07-19T04:45:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-113. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['61a5a1ce-0dd3-42e7-9be8-c0952fb6ed56', '7715bcb8-3545-4c3d-83e8-769372d86176']\n\nRegards,\ngrace\n"
+    },
+    {
+      "thread_id": "1bb527ee-660b-4399-a76c-a6f425787e51",
+      "sender": "grace",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-07-28T23:40:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-149. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['b87d0e72-1779-48ee-84c5-1a7517e0d024', 'e86487d7-0bae-47f0-a18a-a59bf94c2fbe']\n\nRegards,\ngrace\n"
+    },
+    {
+      "thread_id": "242a4167-7622-47e7-90f5-9a3168d5a5a4",
+      "sender": "carol",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-06-03T11:50:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-147. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['e36a5a97-f18a-4c4b-b880-05efe4c50f74', 'db9d2572-313f-4cd7-b376-f3b587db8a0d']\n\nRegards,\ncarol\n"
+    },
+    {
+      "thread_id": "92a507fd-edb7-4ecb-b61b-b9fa349b1f84",
+      "sender": "grace",
+      "subject": "Approval Needed: Prod deployment on Friday",
+      "timestamp": "2023-06-09T05:11:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-107. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['59253c59-7d09-4cc2-966f-655bc4086aad', '4fbf89dc-d96b-4442-842b-0f46053a0ee9']\n\nRegards,\ngrace\n"
+    },
+    {
+      "thread_id": "09e14c34-0aa2-4551-a0bf-685cc6456374",
+      "sender": "alice",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-07-06T10:04:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-142. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['51f6a592-ba66-42f0-8528-5d8661662a8b', '10472f70-7e03-4668-921f-292eee26faed']\n\nRegards,\nalice\n"
+    },
+    {
+      "thread_id": "4502ae27-e967-41bd-98fc-e2323c1fc686",
+      "sender": "carol",
+      "subject": "Approval Needed: Prod deployment on Friday",
+      "timestamp": "2023-08-29T23:08:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-143. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['85033b79-1a77-4228-9c34-68fa288e6f9b', '3a34051b-0015-4a22-91d3-2afd0647d066']\n\nRegards,\ncarol\n"
+    },
+    {
+      "thread_id": "8c2474e8-660e-4524-8c47-61280c95b8d8",
+      "sender": "alice",
+      "subject": "Support Request: Refund processing delay",
+      "timestamp": "2023-07-14T23:15:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-147. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['599fc793-f390-4a56-b028-ffed549c8a07', '1ecd4902-b1d4-41e0-8f8a-cc467b2f6c8a']\n\nRegards,\nalice\n"
+    },
+    {
+      "thread_id": "99b04df3-62e1-4256-a99c-319ac15d653c",
+      "sender": "carol",
+      "subject": "Discussion: Moving from MySQL to PostgreSQL",
+      "timestamp": "2023-07-01T11:58:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-140. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['8d65d945-e9a8-4763-9ea6-00d58985ea57', '599fc793-f390-4a56-b028-ffed549c8a07']\n\nRegards,\ncarol\n"
+    },
+    {
+      "thread_id": "8f361f36-feec-4a70-aa04-91d60fb11f0d",
+      "sender": "alice",
+      "subject": "Escalation: User unable to reset password",
+      "timestamp": "2023-06-14T02:49:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-112. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['5637cb10-9b09-4875-94d3-e7d399e79029', 'd11f20d4-5002-4fab-95f4-6d07e0655602']\n\nRegards,\nalice\n"
+    },
+    {
+      "thread_id": "74d87a3b-a43a-4332-9f90-fbc8e0e4699e",
+      "sender": "frank",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-07-18T18:40:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-122. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['59253c59-7d09-4cc2-966f-655bc4086aad', '381549ba-44e2-4bc6-bce6-88d4c1991f76']\n\nRegards,\nfrank\n"
+    },
+    {
+      "thread_id": "a81363de-ad6b-4537-8794-e09ab642d92d",
+      "sender": "carol",
+      "subject": "Bug Report: Dashboard data mismatch",
+      "timestamp": "2023-06-16T10:12:00",
+      "body": "Hi Team,\n\nPlease look into the issue related to ticket PROJ-136. We've noticed inconsistencies in recent deployments.\n\nRelated commits: ['8d65d945-e9a8-4763-9ea6-00d58985ea57', '70b05270-4027-466c-86c1-b74b275319d1']\n\nRegards,\ncarol\n"
+    }
+  ],
+  "teams": [
+    {
+      "conversation_id": "70e52e48-2e9b-456b-803c-8df41658519a",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "dave",
+        "bob",
+        "frank",
+        "alice"
+      ],
+      "messages": [
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-27T09:30:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-127."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-06-13T07:33:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-118."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-12T02:37:00",
+          "message": "alice: Discussing cloud cost optimization strategies with insights from ticket PROJ-111."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-08T15:46:00",
+          "message": "alice: Discussing cloud cost optimization strategies with insights from ticket PROJ-131."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-08-12T01:34:00",
+          "message": "frank: Discussing cloud cost optimization strategies with insights from ticket PROJ-104."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-08T17:44:00",
+          "message": "alice: Discussing cloud cost optimization strategies with insights from ticket PROJ-102."
+        }
+      ]
+    },
+    {
+      "conversation_id": "04452963-2311-49ef-b65b-f321fecef50f",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "bob",
+        "dave"
+      ],
+      "messages": [
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-21T15:00:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-124."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-05T15:23:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-113."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-21T02:16:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-126."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-22T04:19:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-112."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-14T08:06:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-116."
+        }
+      ]
+    },
+    {
+      "conversation_id": "b4c43752-94fe-404c-b666-da4f6e9d66db",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "heidi",
+        "carol",
+        "frank",
+        "bob"
+      ],
+      "messages": [
+        {
+          "sender": "frank",
+          "timestamp": "2023-08-16T18:19:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-07-11T18:30:00",
+          "message": "heidi: Discussing debugging jwt issues in staging with insights from ticket PROJ-136."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-06-28T07:25:00",
+          "message": "bob: Discussing debugging jwt issues in staging with insights from ticket PROJ-132."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-08-25T03:19:00",
+          "message": "bob: Discussing debugging jwt issues in staging with insights from ticket PROJ-100."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-08-24T21:55:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-142."
+        }
+      ]
+    },
+    {
+      "conversation_id": "bc025784-64cc-46a4-b562-58a22c677f59",
+      "topic": "Best practices for React hooks",
+      "participants": [
+        "carol",
+        "grace",
+        "heidi"
+      ],
+      "messages": [
+        {
+          "sender": "grace",
+          "timestamp": "2023-06-02T17:54:00",
+          "message": "grace: Discussing best practices for react hooks with insights from ticket PROJ-117."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-30T00:37:00",
+          "message": "carol: Discussing best practices for react hooks with insights from ticket PROJ-121."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-06-04T17:19:00",
+          "message": "carol: Discussing best practices for react hooks with insights from ticket PROJ-109."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-06-14T06:32:00",
+          "message": "heidi: Discussing best practices for react hooks with insights from ticket PROJ-109."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-06-14T18:49:00",
+          "message": "heidi: Discussing best practices for react hooks with insights from ticket PROJ-145."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-08-23T19:26:00",
+          "message": "carol: Discussing best practices for react hooks with insights from ticket PROJ-111."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-17T01:54:00",
+          "message": "grace: Discussing best practices for react hooks with insights from ticket PROJ-148."
+        }
+      ]
+    },
+    {
+      "conversation_id": "fb8c1ab0-1c60-4980-a5b0-0c0e8af0d6e0",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "bob",
+        "carol",
+        "dave",
+        "erin"
+      ],
+      "messages": [
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-13T21:52:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-131."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-14T01:05:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-142."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-06-18T05:47:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-130."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-08-08T14:28:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-119."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-19T09:53:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-112."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-22T22:29:00",
+          "message": "carol: Discussing cloud cost optimization strategies with insights from ticket PROJ-113."
+        }
+      ]
+    },
+    {
+      "conversation_id": "444a0354-2d0c-4de5-a647-eaeabcc3c6bf",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "heidi",
+        "frank",
+        "dave",
+        "erin"
+      ],
+      "messages": [
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-14T04:01:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-141."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-17T08:00:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-136."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-10T08:06:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-143."
+        }
+      ]
+    },
+    {
+      "conversation_id": "b399beb2-bf25-4fae-83e2-91a972d7a6e8",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "frank",
+        "bob",
+        "carol"
+      ],
+      "messages": [
+        {
+          "sender": "frank",
+          "timestamp": "2023-08-27T22:41:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-126."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-08-11T12:05:00",
+          "message": "bob: Discussing debugging jwt issues in staging with insights from ticket PROJ-137."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-06-28T02:02:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-143."
+        }
+      ]
+    },
+    {
+      "conversation_id": "12472c4a-8301-4b57-baab-c37b36bba8c5",
+      "topic": "Best practices for React hooks",
+      "participants": [
+        "erin",
+        "frank"
+      ],
+      "messages": [
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-01T21:41:00",
+          "message": "erin: Discussing best practices for react hooks with insights from ticket PROJ-137."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-07T08:36:00",
+          "message": "erin: Discussing best practices for react hooks with insights from ticket PROJ-135."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-16T11:46:00",
+          "message": "erin: Discussing best practices for react hooks with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-30T15:08:00",
+          "message": "erin: Discussing best practices for react hooks with insights from ticket PROJ-144."
+        }
+      ]
+    },
+    {
+      "conversation_id": "e862b918-d9e5-46d1-8cbe-f083526f52f0",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "carol",
+        "heidi",
+        "erin"
+      ],
+      "messages": [
+        {
+          "sender": "carol",
+          "timestamp": "2023-08-05T09:19:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-116."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-05T05:22:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-07-07T19:43:00",
+          "message": "heidi: Discussing debugging jwt issues in staging with insights from ticket PROJ-129."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-07T11:39:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-120."
+        }
+      ]
+    },
+    {
+      "conversation_id": "84b0f136-e69a-4df6-b590-80db0b28b247",
+      "topic": "Process for hotfix deployments",
+      "participants": [
+        "heidi",
+        "grace",
+        "carol"
+      ],
+      "messages": [
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-05T10:00:00",
+          "message": "carol: Discussing process for hotfix deployments with insights from ticket PROJ-100."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-23T11:54:00",
+          "message": "grace: Discussing process for hotfix deployments with insights from ticket PROJ-126."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-08-11T23:47:00",
+          "message": "grace: Discussing process for hotfix deployments with insights from ticket PROJ-127."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-08-19T22:25:00",
+          "message": "heidi: Discussing process for hotfix deployments with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-06-03T10:52:00",
+          "message": "carol: Discussing process for hotfix deployments with insights from ticket PROJ-118."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-07-26T23:36:00",
+          "message": "heidi: Discussing process for hotfix deployments with insights from ticket PROJ-123."
+        }
+      ]
+    },
+    {
+      "conversation_id": "d8910796-4dc5-4789-a5ca-f20ff5f6d61d",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "heidi",
+        "dave",
+        "alice"
+      ],
+      "messages": [
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-10T20:15:00",
+          "message": "alice: Discussing debugging jwt issues in staging with insights from ticket PROJ-105."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-28T00:04:00",
+          "message": "alice: Discussing debugging jwt issues in staging with insights from ticket PROJ-130."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-08-10T00:35:00",
+          "message": "heidi: Discussing debugging jwt issues in staging with insights from ticket PROJ-113."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-13T16:25:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-141."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-06-18T05:51:00",
+          "message": "heidi: Discussing debugging jwt issues in staging with insights from ticket PROJ-116."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-06-21T17:55:00",
+          "message": "heidi: Discussing debugging jwt issues in staging with insights from ticket PROJ-134."
+        }
+      ]
+    },
+    {
+      "conversation_id": "63c47dda-c1c1-4499-a8aa-f8513e6d1148",
+      "topic": "How to reproduce session bug",
+      "participants": [
+        "heidi",
+        "alice"
+      ],
+      "messages": [
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-23T18:06:00",
+          "message": "alice: Discussing how to reproduce session bug with insights from ticket PROJ-121."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-08-17T08:40:00",
+          "message": "heidi: Discussing how to reproduce session bug with insights from ticket PROJ-146."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-07-17T21:40:00",
+          "message": "alice: Discussing how to reproduce session bug with insights from ticket PROJ-115."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-06-07T06:41:00",
+          "message": "heidi: Discussing how to reproduce session bug with insights from ticket PROJ-139."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-04T10:32:00",
+          "message": "alice: Discussing how to reproduce session bug with insights from ticket PROJ-149."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-07-29T22:38:00",
+          "message": "heidi: Discussing how to reproduce session bug with insights from ticket PROJ-111."
+        }
+      ]
+    },
+    {
+      "conversation_id": "a3449ba2-1381-4c86-9948-da6eb19b5751",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "frank",
+        "erin"
+      ],
+      "messages": [
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-16T11:31:00",
+          "message": "frank: Discussing cloud cost optimization strategies with insights from ticket PROJ-147."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-17T13:38:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-134."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-15T13:15:00",
+          "message": "frank: Discussing cloud cost optimization strategies with insights from ticket PROJ-143."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-10T02:39:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-143."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-19T20:37:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-141."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-13T04:12:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-109."
+        }
+      ]
+    },
+    {
+      "conversation_id": "30abb105-e564-4c4f-89f0-429644b2437b",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "heidi",
+        "dave",
+        "frank"
+      ],
+      "messages": [
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-31T02:36:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-105."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-26T04:09:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-31T13:43:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-146."
+        }
+      ]
+    },
+    {
+      "conversation_id": "f838f310-e288-470b-9167-d3c5200c38e4",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "bob",
+        "grace",
+        "heidi",
+        "carol"
+      ],
+      "messages": [
+        {
+          "sender": "bob",
+          "timestamp": "2023-08-19T13:17:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-144."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-06-24T06:13:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-126."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-24T05:14:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-122."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-08-01T23:16:00",
+          "message": "carol: Discussing cloud cost optimization strategies with insights from ticket PROJ-108."
+        }
+      ]
+    },
+    {
+      "conversation_id": "6289b36e-c432-4b6f-a55e-83815ce0b1bb",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "bob",
+        "grace"
+      ],
+      "messages": [
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-23T15:08:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-106."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-07T02:03:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-123."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-08-06T18:52:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-110."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-28T04:03:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-129."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-06-11T10:50:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-107."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-06-11T05:50:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-142."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-08-30T12:01:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-144."
+        }
+      ]
+    },
+    {
+      "conversation_id": "5133acba-6bed-4ed3-9945-5269abce8308",
+      "topic": "Best practices for React hooks",
+      "participants": [
+        "frank",
+        "bob"
+      ],
+      "messages": [
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-19T19:21:00",
+          "message": "frank: Discussing best practices for react hooks with insights from ticket PROJ-131."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-25T09:11:00",
+          "message": "frank: Discussing best practices for react hooks with insights from ticket PROJ-110."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-13T09:07:00",
+          "message": "frank: Discussing best practices for react hooks with insights from ticket PROJ-149."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-31T18:39:00",
+          "message": "bob: Discussing best practices for react hooks with insights from ticket PROJ-127."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-08-30T14:37:00",
+          "message": "frank: Discussing best practices for react hooks with insights from ticket PROJ-126."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-22T14:05:00",
+          "message": "frank: Discussing best practices for react hooks with insights from ticket PROJ-121."
+        }
+      ]
+    },
+    {
+      "conversation_id": "e4ceafb4-261c-4deb-a2eb-0cdacb68a45d",
+      "topic": "Process for hotfix deployments",
+      "participants": [
+        "erin",
+        "alice"
+      ],
+      "messages": [
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-12T17:59:00",
+          "message": "erin: Discussing process for hotfix deployments with insights from ticket PROJ-106."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-22T04:54:00",
+          "message": "alice: Discussing process for hotfix deployments with insights from ticket PROJ-102."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-18T19:14:00",
+          "message": "alice: Discussing process for hotfix deployments with insights from ticket PROJ-147."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-18T12:55:00",
+          "message": "alice: Discussing process for hotfix deployments with insights from ticket PROJ-105."
+        }
+      ]
+    },
+    {
+      "conversation_id": "ee75ff59-9f12-4655-9610-2edf3a87ade8",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "carol",
+        "heidi"
+      ],
+      "messages": [
+        {
+          "sender": "heidi",
+          "timestamp": "2023-08-18T08:23:00",
+          "message": "heidi: Discussing debugging jwt issues in staging with insights from ticket PROJ-135."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-07-02T22:00:00",
+          "message": "heidi: Discussing debugging jwt issues in staging with insights from ticket PROJ-124."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-06-23T12:24:00",
+          "message": "heidi: Discussing debugging jwt issues in staging with insights from ticket PROJ-133."
+        }
+      ]
+    },
+    {
+      "conversation_id": "f3e0c435-2907-4d46-b100-1d4739529816",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "erin",
+        "grace"
+      ],
+      "messages": [
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-27T13:53:00",
+          "message": "grace: Discussing debugging jwt issues in staging with insights from ticket PROJ-119."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-08-30T17:26:00",
+          "message": "erin: Discussing debugging jwt issues in staging with insights from ticket PROJ-111."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-27T04:47:00",
+          "message": "erin: Discussing debugging jwt issues in staging with insights from ticket PROJ-115."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-11T07:34:00",
+          "message": "grace: Discussing debugging jwt issues in staging with insights from ticket PROJ-102."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-08-22T16:05:00",
+          "message": "erin: Discussing debugging jwt issues in staging with insights from ticket PROJ-102."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-09T17:25:00",
+          "message": "erin: Discussing debugging jwt issues in staging with insights from ticket PROJ-120."
+        }
+      ]
+    },
+    {
+      "conversation_id": "81c6f17d-74e4-4d16-bac8-043267b30f48",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "carol",
+        "bob",
+        "alice",
+        "dave"
+      ],
+      "messages": [
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-24T02:57:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-125."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-08T04:49:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-125."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-26T18:27:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-113."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-01T18:19:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-142."
+        }
+      ]
+    },
+    {
+      "conversation_id": "05d0db99-fcac-4be3-b494-7c494da3accb",
+      "topic": "How to reproduce session bug",
+      "participants": [
+        "grace",
+        "dave",
+        "erin"
+      ],
+      "messages": [
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-30T20:01:00",
+          "message": "dave: Discussing how to reproduce session bug with insights from ticket PROJ-134."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-06-02T04:40:00",
+          "message": "grace: Discussing how to reproduce session bug with insights from ticket PROJ-145."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-03T08:44:00",
+          "message": "erin: Discussing how to reproduce session bug with insights from ticket PROJ-114."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-06-03T21:46:00",
+          "message": "grace: Discussing how to reproduce session bug with insights from ticket PROJ-139."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-16T13:17:00",
+          "message": "erin: Discussing how to reproduce session bug with insights from ticket PROJ-117."
+        }
+      ]
+    },
+    {
+      "conversation_id": "c5f01031-a8f4-42ea-aec5-dde7281f1de4",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "erin",
+        "grace"
+      ],
+      "messages": [
+        {
+          "sender": "grace",
+          "timestamp": "2023-08-03T14:29:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-105."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-06T13:20:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-149."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-11T09:23:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-102."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-08-26T16:11:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-146."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-25T22:24:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-115."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-08-17T20:50:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-140."
+        }
+      ]
+    },
+    {
+      "conversation_id": "0fc842b3-20b9-4744-be26-fefc953975cd",
+      "topic": "How to reproduce session bug",
+      "participants": [
+        "alice",
+        "grace",
+        "erin",
+        "bob"
+      ],
+      "messages": [
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-25T15:14:00",
+          "message": "alice: Discussing how to reproduce session bug with insights from ticket PROJ-115."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-19T19:45:00",
+          "message": "bob: Discussing how to reproduce session bug with insights from ticket PROJ-140."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-06-25T13:07:00",
+          "message": "grace: Discussing how to reproduce session bug with insights from ticket PROJ-106."
+        }
+      ]
+    },
+    {
+      "conversation_id": "c5f7a9a7-2bad-457a-a582-362b2d62dd34",
+      "topic": "Process for hotfix deployments",
+      "participants": [
+        "alice",
+        "erin",
+        "heidi"
+      ],
+      "messages": [
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-09T01:46:00",
+          "message": "erin: Discussing process for hotfix deployments with insights from ticket PROJ-135."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-08-29T04:17:00",
+          "message": "erin: Discussing process for hotfix deployments with insights from ticket PROJ-122."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-08-17T16:28:00",
+          "message": "heidi: Discussing process for hotfix deployments with insights from ticket PROJ-127."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-08-22T06:51:00",
+          "message": "erin: Discussing process for hotfix deployments with insights from ticket PROJ-143."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-05T21:53:00",
+          "message": "alice: Discussing process for hotfix deployments with insights from ticket PROJ-126."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-07-31T14:26:00",
+          "message": "alice: Discussing process for hotfix deployments with insights from ticket PROJ-146."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-30T07:59:00",
+          "message": "erin: Discussing process for hotfix deployments with insights from ticket PROJ-131."
+        }
+      ]
+    },
+    {
+      "conversation_id": "caee5662-9903-4117-b62d-6f3f8da25a43",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "heidi",
+        "dave"
+      ],
+      "messages": [
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-26T12:36:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-110."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-08-30T00:45:00",
+          "message": "heidi: Discussing cloud cost optimization strategies with insights from ticket PROJ-102."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-15T11:20:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-143."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-08T08:20:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-141."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-24T14:17:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-100."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-02T19:59:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-108."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-06-12T04:44:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-134."
+        }
+      ]
+    },
+    {
+      "conversation_id": "c718443b-923e-4e9c-8dca-1f8868aa1989",
+      "topic": "How to reproduce session bug",
+      "participants": [
+        "erin",
+        "frank",
+        "bob",
+        "carol"
+      ],
+      "messages": [
+        {
+          "sender": "carol",
+          "timestamp": "2023-06-13T10:29:00",
+          "message": "carol: Discussing how to reproduce session bug with insights from ticket PROJ-117."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-27T16:31:00",
+          "message": "frank: Discussing how to reproduce session bug with insights from ticket PROJ-141."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-15T04:30:00",
+          "message": "frank: Discussing how to reproduce session bug with insights from ticket PROJ-124."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-20T14:18:00",
+          "message": "erin: Discussing how to reproduce session bug with insights from ticket PROJ-143."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-26T11:46:00",
+          "message": "carol: Discussing how to reproduce session bug with insights from ticket PROJ-149."
+        }
+      ]
+    },
+    {
+      "conversation_id": "40926b2c-3bc1-40ec-a409-9065e611d74a",
+      "topic": "Process for hotfix deployments",
+      "participants": [
+        "dave",
+        "grace"
+      ],
+      "messages": [
+        {
+          "sender": "grace",
+          "timestamp": "2023-08-25T04:44:00",
+          "message": "grace: Discussing process for hotfix deployments with insights from ticket PROJ-132."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-08-16T23:54:00",
+          "message": "grace: Discussing process for hotfix deployments with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-08T18:12:00",
+          "message": "grace: Discussing process for hotfix deployments with insights from ticket PROJ-146."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-06-27T03:23:00",
+          "message": "dave: Discussing process for hotfix deployments with insights from ticket PROJ-118."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-16T20:33:00",
+          "message": "dave: Discussing process for hotfix deployments with insights from ticket PROJ-101."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-06-20T11:26:00",
+          "message": "dave: Discussing process for hotfix deployments with insights from ticket PROJ-109."
+        }
+      ]
+    },
+    {
+      "conversation_id": "9cd72693-b9e9-468e-b89a-7de6dce312b9",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "grace",
+        "carol",
+        "bob",
+        "frank"
+      ],
+      "messages": [
+        {
+          "sender": "grace",
+          "timestamp": "2023-08-27T20:30:00",
+          "message": "grace: Discussing debugging jwt issues in staging with insights from ticket PROJ-100."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-07T13:28:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-147."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-13T06:34:00",
+          "message": "grace: Discussing debugging jwt issues in staging with insights from ticket PROJ-115."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-28T22:23:00",
+          "message": "grace: Discussing debugging jwt issues in staging with insights from ticket PROJ-117."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-08-27T02:58:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-104."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-06-20T12:20:00",
+          "message": "bob: Discussing debugging jwt issues in staging with insights from ticket PROJ-115."
+        }
+      ]
+    },
+    {
+      "conversation_id": "04b8d5f8-dbd1-4e6b-a9b2-78eb8655fc87",
+      "topic": "Process for hotfix deployments",
+      "participants": [
+        "dave",
+        "frank",
+        "erin"
+      ],
+      "messages": [
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-26T15:22:00",
+          "message": "frank: Discussing process for hotfix deployments with insights from ticket PROJ-135."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-18T00:57:00",
+          "message": "frank: Discussing process for hotfix deployments with insights from ticket PROJ-113."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-13T20:53:00",
+          "message": "erin: Discussing process for hotfix deployments with insights from ticket PROJ-105."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-18T12:03:00",
+          "message": "dave: Discussing process for hotfix deployments with insights from ticket PROJ-135."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-08-23T00:46:00",
+          "message": "erin: Discussing process for hotfix deployments with insights from ticket PROJ-117."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-17T22:02:00",
+          "message": "frank: Discussing process for hotfix deployments with insights from ticket PROJ-124."
+        }
+      ]
+    },
+    {
+      "conversation_id": "aad6c099-62c3-47a6-8f53-7688ff381575",
+      "topic": "Process for hotfix deployments",
+      "participants": [
+        "carol",
+        "alice"
+      ],
+      "messages": [
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-21T10:44:00",
+          "message": "alice: Discussing process for hotfix deployments with insights from ticket PROJ-133."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-08T06:50:00",
+          "message": "carol: Discussing process for hotfix deployments with insights from ticket PROJ-104."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-01T04:14:00",
+          "message": "alice: Discussing process for hotfix deployments with insights from ticket PROJ-114."
+        }
+      ]
+    },
+    {
+      "conversation_id": "389c3a06-526b-4b8b-881a-5f31d11b4d77",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "frank",
+        "erin",
+        "carol"
+      ],
+      "messages": [
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-15T02:07:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-122."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-21T09:55:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-116."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-13T09:45:00",
+          "message": "erin: Discussing debugging jwt issues in staging with insights from ticket PROJ-132."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-28T07:13:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-100."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-13T15:40:00",
+          "message": "erin: Discussing debugging jwt issues in staging with insights from ticket PROJ-133."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-14T06:06:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-117."
+        }
+      ]
+    },
+    {
+      "conversation_id": "43e41244-cd81-49ca-b484-7b12711704f3",
+      "topic": "Best practices for React hooks",
+      "participants": [
+        "bob",
+        "erin",
+        "alice"
+      ],
+      "messages": [
+        {
+          "sender": "bob",
+          "timestamp": "2023-08-19T08:40:00",
+          "message": "bob: Discussing best practices for react hooks with insights from ticket PROJ-131."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-06-21T22:29:00",
+          "message": "bob: Discussing best practices for react hooks with insights from ticket PROJ-134."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-18T03:18:00",
+          "message": "alice: Discussing best practices for react hooks with insights from ticket PROJ-146."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-25T14:00:00",
+          "message": "erin: Discussing best practices for react hooks with insights from ticket PROJ-146."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-16T09:00:00",
+          "message": "erin: Discussing best practices for react hooks with insights from ticket PROJ-100."
+        }
+      ]
+    },
+    {
+      "conversation_id": "5dea3e3f-be95-4dec-a9d0-5e1294808be8",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "erin",
+        "grace"
+      ],
+      "messages": [
+        {
+          "sender": "grace",
+          "timestamp": "2023-08-13T14:49:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-111."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-01T12:01:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-113."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-27T19:14:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-139."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-25T11:05:00",
+          "message": "erin: Discussing cloud cost optimization strategies with insights from ticket PROJ-129."
+        }
+      ]
+    },
+    {
+      "conversation_id": "52dbae88-46b5-494b-a8cb-40e52969db50",
+      "topic": "How to reproduce session bug",
+      "participants": [
+        "heidi",
+        "erin",
+        "carol"
+      ],
+      "messages": [
+        {
+          "sender": "erin",
+          "timestamp": "2023-08-12T05:11:00",
+          "message": "erin: Discussing how to reproduce session bug with insights from ticket PROJ-125."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-08-17T07:28:00",
+          "message": "heidi: Discussing how to reproduce session bug with insights from ticket PROJ-127."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-07-23T00:09:00",
+          "message": "heidi: Discussing how to reproduce session bug with insights from ticket PROJ-137."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-30T03:58:00",
+          "message": "erin: Discussing how to reproduce session bug with insights from ticket PROJ-141."
+        }
+      ]
+    },
+    {
+      "conversation_id": "a1b6846b-c9fb-479a-a8a4-0068b14aa668",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "carol",
+        "dave",
+        "alice"
+      ],
+      "messages": [
+        {
+          "sender": "carol",
+          "timestamp": "2023-08-16T22:10:00",
+          "message": "carol: Discussing cloud cost optimization strategies with insights from ticket PROJ-124."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-15T18:31:00",
+          "message": "alice: Discussing cloud cost optimization strategies with insights from ticket PROJ-141."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-07-05T15:18:00",
+          "message": "alice: Discussing cloud cost optimization strategies with insights from ticket PROJ-122."
+        }
+      ]
+    },
+    {
+      "conversation_id": "c3be8f7a-4568-488d-81d7-fe7f2706b387",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "heidi",
+        "carol",
+        "frank"
+      ],
+      "messages": [
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-12T16:49:00",
+          "message": "carol: Discussing cloud cost optimization strategies with insights from ticket PROJ-134."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-06-29T19:40:00",
+          "message": "carol: Discussing cloud cost optimization strategies with insights from ticket PROJ-145."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-08-20T03:57:00",
+          "message": "heidi: Discussing cloud cost optimization strategies with insights from ticket PROJ-110."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-29T16:17:00",
+          "message": "frank: Discussing cloud cost optimization strategies with insights from ticket PROJ-141."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-11T17:28:00",
+          "message": "frank: Discussing cloud cost optimization strategies with insights from ticket PROJ-104."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-06-15T12:22:00",
+          "message": "heidi: Discussing cloud cost optimization strategies with insights from ticket PROJ-125."
+        }
+      ]
+    },
+    {
+      "conversation_id": "9ff384bc-1d3e-463f-bd4d-d7bb1ca2aadc",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "frank",
+        "alice"
+      ],
+      "messages": [
+        {
+          "sender": "frank",
+          "timestamp": "2023-08-28T01:50:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-147."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-31T14:54:00",
+          "message": "alice: Discussing debugging jwt issues in staging with insights from ticket PROJ-131."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-23T12:02:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-143."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-25T17:05:00",
+          "message": "alice: Discussing debugging jwt issues in staging with insights from ticket PROJ-148."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-24T10:23:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-130."
+        }
+      ]
+    },
+    {
+      "conversation_id": "01bcccce-d0b0-4411-8195-491d2669ed84",
+      "topic": "Best practices for React hooks",
+      "participants": [
+        "frank",
+        "bob"
+      ],
+      "messages": [
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-06T10:19:00",
+          "message": "frank: Discussing best practices for react hooks with insights from ticket PROJ-135."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-04T05:17:00",
+          "message": "bob: Discussing best practices for react hooks with insights from ticket PROJ-131."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-08-10T23:34:00",
+          "message": "frank: Discussing best practices for react hooks with insights from ticket PROJ-110."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-11T19:43:00",
+          "message": "frank: Discussing best practices for react hooks with insights from ticket PROJ-108."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-06-14T08:41:00",
+          "message": "bob: Discussing best practices for react hooks with insights from ticket PROJ-130."
+        }
+      ]
+    },
+    {
+      "conversation_id": "3503ac01-86a3-43d5-8167-52a55b905e92",
+      "topic": "How to reproduce session bug",
+      "participants": [
+        "erin",
+        "alice",
+        "heidi"
+      ],
+      "messages": [
+        {
+          "sender": "heidi",
+          "timestamp": "2023-07-03T06:11:00",
+          "message": "heidi: Discussing how to reproduce session bug with insights from ticket PROJ-113."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-06-21T22:05:00",
+          "message": "heidi: Discussing how to reproduce session bug with insights from ticket PROJ-115."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-07-07T02:25:00",
+          "message": "alice: Discussing how to reproduce session bug with insights from ticket PROJ-102."
+        }
+      ]
+    },
+    {
+      "conversation_id": "915a50b8-51c4-4191-93c0-02e79798224a",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "dave",
+        "frank"
+      ],
+      "messages": [
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-27T06:33:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-128."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-06T09:10:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-145."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-08-23T04:45:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-143."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-28T14:03:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-126."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-08-16T11:02:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-111."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-06T06:32:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-102."
+        }
+      ]
+    },
+    {
+      "conversation_id": "94727624-3188-4dd5-b305-80c25b668e81",
+      "topic": "Process for hotfix deployments",
+      "participants": [
+        "carol",
+        "grace"
+      ],
+      "messages": [
+        {
+          "sender": "grace",
+          "timestamp": "2023-08-20T21:54:00",
+          "message": "grace: Discussing process for hotfix deployments with insights from ticket PROJ-145."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-08-11T12:35:00",
+          "message": "carol: Discussing process for hotfix deployments with insights from ticket PROJ-102."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-31T21:36:00",
+          "message": "carol: Discussing process for hotfix deployments with insights from ticket PROJ-101."
+        }
+      ]
+    },
+    {
+      "conversation_id": "f0709f43-e182-470e-bb46-6d8fbbf21bc4",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "carol",
+        "bob",
+        "erin",
+        "grace"
+      ],
+      "messages": [
+        {
+          "sender": "bob",
+          "timestamp": "2023-08-24T04:59:00",
+          "message": "bob: Discussing debugging jwt issues in staging with insights from ticket PROJ-130."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-06-13T06:56:00",
+          "message": "grace: Discussing debugging jwt issues in staging with insights from ticket PROJ-105."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-14T17:06:00",
+          "message": "bob: Discussing debugging jwt issues in staging with insights from ticket PROJ-130."
+        }
+      ]
+    },
+    {
+      "conversation_id": "a5e11185-0049-400c-865e-1a8948775e4d",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "carol",
+        "heidi",
+        "dave",
+        "erin"
+      ],
+      "messages": [
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-22T18:33:00",
+          "message": "erin: Discussing debugging jwt issues in staging with insights from ticket PROJ-148."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-06-29T00:13:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-123."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-28T09:03:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-147."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-06T23:03:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-08-08T20:08:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-147."
+        },
+        {
+          "sender": "heidi",
+          "timestamp": "2023-06-04T03:30:00",
+          "message": "heidi: Discussing debugging jwt issues in staging with insights from ticket PROJ-116."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-07T07:45:00",
+          "message": "carol: Discussing debugging jwt issues in staging with insights from ticket PROJ-144."
+        }
+      ]
+    },
+    {
+      "conversation_id": "3d03e1a0-c242-45c3-b455-0e67dd369820",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "frank",
+        "grace"
+      ],
+      "messages": [
+        {
+          "sender": "grace",
+          "timestamp": "2023-06-20T11:11:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-140."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-07-12T00:31:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-137."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-06-20T14:19:00",
+          "message": "grace: Discussing cloud cost optimization strategies with insights from ticket PROJ-142."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-06-28T10:07:00",
+          "message": "frank: Discussing cloud cost optimization strategies with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-02T17:32:00",
+          "message": "frank: Discussing cloud cost optimization strategies with insights from ticket PROJ-139."
+        }
+      ]
+    },
+    {
+      "conversation_id": "b55066bd-c1ba-406a-925f-f66c666453b3",
+      "topic": "Best practices for React hooks",
+      "participants": [
+        "dave",
+        "bob",
+        "alice",
+        "carol"
+      ],
+      "messages": [
+        {
+          "sender": "carol",
+          "timestamp": "2023-08-12T01:38:00",
+          "message": "carol: Discussing best practices for react hooks with insights from ticket PROJ-101."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-29T20:45:00",
+          "message": "dave: Discussing best practices for react hooks with insights from ticket PROJ-144."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-23T23:47:00",
+          "message": "dave: Discussing best practices for react hooks with insights from ticket PROJ-110."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-19T20:08:00",
+          "message": "alice: Discussing best practices for react hooks with insights from ticket PROJ-124."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-06-01T10:54:00",
+          "message": "dave: Discussing best practices for react hooks with insights from ticket PROJ-143."
+        }
+      ]
+    },
+    {
+      "conversation_id": "f0ae2ea6-9552-4bc6-b2a1-1b0da071feb2",
+      "topic": "Debugging JWT issues in staging",
+      "participants": [
+        "frank",
+        "dave"
+      ],
+      "messages": [
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-20T01:17:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-139."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-19T02:39:00",
+          "message": "frank: Discussing debugging jwt issues in staging with insights from ticket PROJ-127."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-06-07T22:19:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-105."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-06-09T20:51:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-143."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-14T16:45:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-122."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-06-04T07:30:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-07-15T21:11:00",
+          "message": "dave: Discussing debugging jwt issues in staging with insights from ticket PROJ-144."
+        }
+      ]
+    },
+    {
+      "conversation_id": "1e35b7e1-20a8-4e89-bda5-215b8dfecb34",
+      "topic": "Cloud cost optimization strategies",
+      "participants": [
+        "frank",
+        "bob",
+        "dave",
+        "grace"
+      ],
+      "messages": [
+        {
+          "sender": "dave",
+          "timestamp": "2023-08-26T09:10:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-24T10:45:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-146."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-04T10:30:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-101."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-08-08T12:44:00",
+          "message": "frank: Discussing cloud cost optimization strategies with insights from ticket PROJ-102."
+        },
+        {
+          "sender": "frank",
+          "timestamp": "2023-07-24T08:28:00",
+          "message": "frank: Discussing cloud cost optimization strategies with insights from ticket PROJ-116."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-09T06:39:00",
+          "message": "bob: Discussing cloud cost optimization strategies with insights from ticket PROJ-105."
+        },
+        {
+          "sender": "dave",
+          "timestamp": "2023-06-14T07:56:00",
+          "message": "dave: Discussing cloud cost optimization strategies with insights from ticket PROJ-145."
+        }
+      ]
+    },
+    {
+      "conversation_id": "a53859f7-5a86-41a2-9d34-3b1c8eac99a0",
+      "topic": "How to reproduce session bug",
+      "participants": [
+        "dave",
+        "carol",
+        "alice",
+        "bob"
+      ],
+      "messages": [
+        {
+          "sender": "carol",
+          "timestamp": "2023-07-07T11:18:00",
+          "message": "carol: Discussing how to reproduce session bug with insights from ticket PROJ-128."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-08-29T21:33:00",
+          "message": "alice: Discussing how to reproduce session bug with insights from ticket PROJ-120."
+        },
+        {
+          "sender": "bob",
+          "timestamp": "2023-07-28T08:03:00",
+          "message": "bob: Discussing how to reproduce session bug with insights from ticket PROJ-124."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-08-31T17:54:00",
+          "message": "carol: Discussing how to reproduce session bug with insights from ticket PROJ-107."
+        },
+        {
+          "sender": "carol",
+          "timestamp": "2023-06-21T05:22:00",
+          "message": "carol: Discussing how to reproduce session bug with insights from ticket PROJ-126."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-07-07T23:57:00",
+          "message": "alice: Discussing how to reproduce session bug with insights from ticket PROJ-118."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-26T12:19:00",
+          "message": "alice: Discussing how to reproduce session bug with insights from ticket PROJ-126."
+        }
+      ]
+    },
+    {
+      "conversation_id": "7d991206-f41f-44a5-abd3-46da88db5dc3",
+      "topic": "How to reproduce session bug",
+      "participants": [
+        "frank",
+        "alice",
+        "erin",
+        "grace"
+      ],
+      "messages": [
+        {
+          "sender": "frank",
+          "timestamp": "2023-08-30T23:44:00",
+          "message": "frank: Discussing how to reproduce session bug with insights from ticket PROJ-141."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-30T02:44:00",
+          "message": "alice: Discussing how to reproduce session bug with insights from ticket PROJ-100."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-08-19T10:40:00",
+          "message": "erin: Discussing how to reproduce session bug with insights from ticket PROJ-103."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-07-31T16:30:00",
+          "message": "erin: Discussing how to reproduce session bug with insights from ticket PROJ-127."
+        },
+        {
+          "sender": "grace",
+          "timestamp": "2023-06-20T11:46:00",
+          "message": "grace: Discussing how to reproduce session bug with insights from ticket PROJ-145."
+        },
+        {
+          "sender": "alice",
+          "timestamp": "2023-06-02T16:02:00",
+          "message": "alice: Discussing how to reproduce session bug with insights from ticket PROJ-131."
+        },
+        {
+          "sender": "erin",
+          "timestamp": "2023-06-24T14:10:00",
+          "message": "erin: Discussing how to reproduce session bug with insights from ticket PROJ-142."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+requests
+dotenv
+tqdm
+sentence_transformers
+numpy
+sklearn
+langchain_text_splitters
+langchain_community
+chromadb
+re
+datetime
+collections
+streamlit
+time
