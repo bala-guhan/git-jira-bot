@@ -12,7 +12,7 @@ git clone https://github.com/bala-guhan/git-jira-bot.git
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd your-repo-name
+cd git-jira-bot
 ```
 
 ### 3. Install dependencies
